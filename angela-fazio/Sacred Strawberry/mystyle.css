@@ -1,0 +1,141 @@
+@charset "utf-8";
+/* CSS Document*/
+/*Define the body element's color*/
+
+
+
+#nav {
+    width: 100%;
+    float: left;
+    margin: 0 1 1 1;
+    padding: 300;
+    background-color: #332A33;
+    border-bottom: 0px solid #FFF9FF;  }
+#nav ul {
+    list-style: none;
+    width: 800px;
+    margin: 0 auto;
+    padding: 0; }
+#nav li {
+    float: left;
+    font-family: 'Open Sans', sans-serif; }
+#nav li a {
+    display: block;
+    padding: 8px 15px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #069;
+    border-right: 0px solid black; }
+#nav li:first-child a {
+    border-left: 0px solid black; }
+#nav li a:hover {
+    color: ;
+    background-color: white; }
+
+.ssmainphoto{
+
+    height: 500px;
+    width: 950px;
+
+
+    display: block;
+    clear: both;
+
+}
+
+.menu_photo{
+
+    height: 349.5px;
+    width: 485px;
+
+    margin: 0px 0px 0px 0px;
+    display: block;
+    float: left;
+
+
+}
+
+.events_photo{
+
+    height: 349.5px;
+    width: 485px;
+
+    margin: 0px 0px 0px 0px;
+    display: block;
+    float: left;
+
+
+}
+
+.info_photo{
+
+    height: 349.5px;
+    width: 485px;
+
+    margin: 0px 0px 0px 0px;
+    display: block;
+    float: left;
+
+
+}
+
+.menu_block {
+
+    height: 349.5px;
+    width: 465px;
+    margin: 0px 10px 0px 0px;
+    padding: 0px;
+
+    display: block;
+    float: right;
+    text-decoration: none;
+    color:white;
+    background-color: #673558;
+
+
+}
+
+
+.events_block {
+
+    height: 349.5px;
+    width: 465px;
+    margin: 0px 10px 0px 0px;
+    padding: 0px;
+
+    display: block;
+    float: right;
+    text-decoration: none;
+    color:white;
+    background-color: #99cccc;
+    position: relative;
+
+}
+
+.info_block {
+
+    height: 349.5px;
+    width: 465px;
+    margin: 0px 10px 0px 0px;
+    padding: 0px;
+
+    display: block;
+    float: right;
+    text-decoration: none;
+    color:white;
+    background-color: #E14374;
+
+}
+
+.span {
+    font-size: 500px
+}
+
+
+
+
+
+
+
+
+

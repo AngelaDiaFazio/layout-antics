@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang=”en”>
+<head>
+        <meta charset=”utf-8”>
+        <title>Sacred Strawberry</title>
+        <meta name=”description” content=”A small raw, vegan catering company. A website that provides inspiration and information on wild foods, wild edibles, foraging, foraging in Louisiana, foraging louisiana, alternative health, healthy food, permaculture, and sustainability. ”>
+        <meta name=”Emily” content=”Sacred Strawberry Raw Foods”>
+        <link rel=”stylesheet” href=”normalize.css”>
+        <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.17.2/build/cssnormalize/cssnormalize-min.css">
+        <link rel="stylesheet" type="text/css" href="gridstyle.css">
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'>
+
+
+
+
+</head>
+<body>
+        <header class="header">
+                <nav id="nav">
+                        <ul>
+                                <li><a href="#">About Us</a></li>
+                                <li><a href="#">Our Products</a></li>
+                                <li><a href="#">FAQs</a></li>
+                                <li><a href="#">Contact</a></li>
+                                <li><a href="#">Login</a></li>
+                        </ul>
+                </nav>
+        </header>
+
+
+                <section class="topimage">
+                        <img src="pics/header_1900x1000.jpg" class="ssmainphoto">
+                </section>
+<div class="flex-container">
+
+                <section>
+                        <img src="pics/firstsection_926x699.jpg" class="flex-item-1">
+                 </section>
+
+
+                <section class="flex-item-2">
+
+                        <h2>Raw Food Delivery Menu for August</h2>
+                        <p>_____</p>
+                        <p>We have been wanting to give some love to the catering side of Sacred Strawberry, but it has always seemed to take a back burner to other stuff we have going on.  Finally, for the month of August we bring you the Sacred Strawberry Cosmic Catering Menu!!  We are starting off fairly simple to gauge interest, so expect to see the menu grow with time
+                        </p>
+                        <p>more...</p>
+
+                 </section>
+
+
+
+                <section>
+                        <img src="pics/second_section926x699.jpg" class="flex-item-3">
+                 </section>
+
+
+                <section class="flex-item-4">
+
+                        <h2>Our Events</h2>
+                        <p>_____</p>
+                        <p> We sell our nutrient dense, raw, vegan products at the Shreveport Farmer’s Market, as well as local festivals, venues and shops. Sacred Strawberry also offers wild edible consultations.  We will come to your garden and tell you what you have growing, how you could optimize certain plants in your garden, as well as how to prepare and use the plants we find.  We lead free wild plant walks, so come along on one of those!</p>
+                        <p>Find out more about our events</p>
+
+                 </section>
+
+
+
+                <section>
+                        <img src="pics/third_section926x699.jpg" class="flex-item-5">
+                 </section>
+
+
+                <section class="flex-item-6">
+
+                        <h2>Inspiration</h2>
+                        <p>_____</p>
+                        <p>Sacred Strawberry Raw Organic Treats is a family affair based in Shreveport, Louisiana. Owned and run by Emily and Daniel Mills, the husband and wife duo decided to offer something different and from the heart to the local community after living abroad for 8 years.Emily has been experimenting with and learning about raw foods from some of the biggest names in in the raw food movement, such as Dr. Gabriel Cousens and Kate Magic for over 6 years and feels a deep calling to share healthy food for vibrant living!.</p>
+
+                 </section>
+
